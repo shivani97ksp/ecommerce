@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "admin",
+      "password": "admin",
+      "email": "sukh@gmail.com",
+      "phone": "09463112345",
+      "country": "india",
+      "address": "Hoshiarpur , Punjab",
+      "gender": "male"
+    },
+    {
+      "id": "meet",
+      "password": "admin",
+      "email": "sukh@gmail.com",
+      "phone": "09463112345",
+      "country": "india",
+      "address": "admin",
+      "gender": "female"
+    },
+    {
+      "id": "divya",
+      "password": "divya",
+      "email": "divya@gmail.com",
+      "phone": "11111111111",
+      "country": "india",
+      "address": "as",
+      "gender": "female"
+    }
+  ]
+}

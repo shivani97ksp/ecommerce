@@ -1,0 +1,92 @@
+.prod{
+
+    display: flex;
+
+    justify-content:left;
+
+    /* float: right; */
+
+    border: 2px solid black;
+
+    margin: 5px;
+
+    padding: 5px;
+
+    border-width: 50%;
+
+   
+
+}
+
+/* img{
+
+    width: 25%;
+
+    height: 20%;
+
+} */
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .col-md-4 {
+    margin-bottom: 3px;
+  }
+  
+  .card {
+    padding: 30px;
+    border: solid 1px rgba(2, 2, 2, 0.08);
+    cursor: pointer;
+    margin: auto;
+    
+  }
+  .card:hover {
+    box-shadow: 0 0 15px 3px rgba(15, 15, 15, 0.08);
+  }
+  .card-title {
+    margin-top: 20px;
+    color: black;
+    font-weight: bold;
+  }
+  .card-text {
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.6);
+  }
+  .card-text .fa {
+    font-size: 26px;
+  }
+  .avatar {
+    width: 250px;
+    /* margin: auto; */
+    height:300px;
+    padding-right:18px
+  }
+  .avatar img {
+    border: solid 6px transparent;
+    border-radius: 5%;
+    height:300px;
+    padding-right: 18px
+  }
+  /* .card:hover .avatar img {
+    border-color: rgb(93, 96, 94);
+  } */
+  
+  .btn {
+    border-radius: 25px;
+  }
+  
+  footer p {
+    color: rgba(0, 0, 0, 0.6);
+  }
+  
+  footer p a,
+  footer p a:hover {
+    color: rgb(99, 204, 131);
+  }
+  
+  @media (min-width: 1200px) {
+    .container {
+      max-width: 1040px;
+    }
+  }
