@@ -8,9 +8,9 @@ import Products from "./Components/Products";
 
 import Prod from "./Components/Prod";
 import Cart from "./Components/Cart";
-import Login from "./Login";
-import Register from "./Register";
-import ForgotPassword from "./ForgotPassword";
+import Login from "./Components/auth/Login";
+import Register from "./Components/auth/Register";
+import ForgotPassword from "./Components/auth/ForgotPassword";
 // test
 function App() {
   const [show, setShow] = useState(true);

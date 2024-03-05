@@ -1,7 +1,7 @@
 import React from "react";
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import "./style.css";
+import "../../style.css";
 
 const Register = () => {
   const [id, idchange] = useState("");      // means username here
